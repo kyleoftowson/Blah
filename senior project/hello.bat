@@ -1,8 +1,7 @@
 @echo off
-start C:\Users\Kyle\AppData\Local\Programs\radare2\radare2.exe test2 
+start C:\Users\Kyle\AppData\Local\Programs\radare2\radare2.exe test1
 
-
-s main
+//type the next two commands in the other command prompt
 pd >BLAHBLAH.txt
 
 
